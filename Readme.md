@@ -1,1 +1,1 @@
-I'm ENU student and prepare of lab 2
+![workflow](https://github.com/<SoPyayTun>/<se>/actions/workflows/main.yml/badge.svg)
