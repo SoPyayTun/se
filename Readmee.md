@@ -1,1 +1,1 @@
-So Pyay tun!!!!
+So![workflow](https://github.com/<SoPyayTun>/<se>/actions/workflows/main.yml/badge.svg) Pyay tun!!!!
